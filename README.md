@@ -13,6 +13,11 @@ This project, Employees, is bootstrapped with [Create React App](https://github.
 
 ## Getting Started
 
+ 1. Clone the repository:
+   ```bash
+   git clone https://github.com/aayebare/employee-frontend.git
+   cd employee-backend
+
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/en/)
@@ -27,15 +32,23 @@ In the project directory, run:
 This installs all the dependencies and starts the app in development mode.
 
 ## Building and usage
+
 -- Open http://localhost:3000 to view it in your browser.
+
 -- The home application page is at http://localhost:3000/login.
+
 -- For testing purposes, create a user using username, password, and role. Once registered, you can log in and interact with the application:
+
 -- Create an employee: http://localhost:3000/employee-form
+
 -- View employees: http://localhost:3000/employee-list
+
 -- You can edit, add, and delete employees.
+
 -- You can download a csv of these employees
 
 ## Available Scripts
+
 `npm start`
 Runs the app in development mode. Open http://localhost:3000 to view it in your browser.
 
